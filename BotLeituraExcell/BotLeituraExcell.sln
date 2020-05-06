@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BotLeituraExcell", "BotLeituraExcell\BotLeituraExcell.csproj", "{4A95ABDE-3CDC-4263-8D1E-A80F4B34125B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A95ABDE-3CDC-4263-8D1E-A80F4B34125B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A95ABDE-3CDC-4263-8D1E-A80F4B34125B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A95ABDE-3CDC-4263-8D1E-A80F4B34125B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A95ABDE-3CDC-4263-8D1E-A80F4B34125B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C3DA9B7E-E961-4A32-9546-333325B7D925}
+	EndGlobalSection
+EndGlobal
